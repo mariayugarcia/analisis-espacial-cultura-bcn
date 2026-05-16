@@ -13,14 +13,17 @@ El flujo de trabajo combina **ingeniería de datos** (APIs y fusión espacial), 
 ## 🏗️ Estructura del Repositorio
 
 ```text
-📦 Proyecto_Final_DEE
- ┣  01_integracion_validacion.R   # Extracción, limpieza y fusión OSM + CKAN
- ┣  02_patrones_puntuales.R       # Análisis CSR, Ripley y Kernel Density
- ┣  03_metricas_autocorrelacion.R # Moran, LISA y métricas de negocio por barrio
- ┣ 📂 final/                        # Directorio de salida (resultados)
- ┃  📂 data/processed/             # Datasets intermedios (.rds)
- ┃ ┗ 📂 outputs/                    # Figuras (.tiff) y tablas (.csv/html)
- ┗ 📄 README.md
+📦 Analisis-espacial-cultura-bcn
+├── 📄 README.md
+├── 📂 scripts/
+│   ├── 01_integracion_validacion.R   # Extracción, limpieza y fusión OSM + CKAN
+│   ├── 02_patrones_puntuales.R       # Análisis CSR, Ripley y Kernel Density
+│   └── 03_metricas_autocorrelacion.R # Moran, LISA y métricas de negocio por barrio
+├── 📂 data/
+│   └── 📂 processed/    # Datasets intermedios (.rds, .gpkg)
+└── 📂 outputs/
+    ├── 📂 figuras/      # Mapas y gráficos (.tiff, .png)
+    └── 📂 tablas/       # Resultados (.csv, .html)
 ```
 
 ## 🔧 Metodología
