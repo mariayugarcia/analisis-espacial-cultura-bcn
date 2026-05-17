@@ -1,0 +1,11 @@
+"Barrio","Distrito","Ratio/10k hab","Cluster","p-value"
+"el Barri Gòtic","Ciutat Vella",2.51,"Alto-Alto (Hotspot)",0
+"la Barceloneta","Ciutat Vella",2.03,"Alto-Alto (Hotspot)",0
+"la Vila Olímpica del Poblenou","Sant Martí",3.21,"Alto-Alto (Hotspot)",8e-04
+"la Dreta de l'Eixample","Eixample",2.63,"Alto-Alto (Hotspot)",0.0011
+"el Fort Pienc","Eixample",1.09,"Bajo-Alto (Atípico)",0.0023
+"la Marina del Prat Vermell","Sants-Montjuïc",0,"Bajo-Alto (Atípico)",0.0231
+"Horta","Horta-Guinardó",0.96,"Bajo-Bajo (Coldspot)",0.0288
+"Sant Antoni","Eixample",1.53,"Alto-Alto (Hotspot)",0.0313
+"el Parc i la Llacuna del Poblenou","Sant Martí",2.27,"Alto-Alto (Hotspot)",0.0365
+"Sant Pere, Santa Caterina i la Ribera","Ciutat Vella",10.98,"Alto-Alto (Hotspot)",0.0369

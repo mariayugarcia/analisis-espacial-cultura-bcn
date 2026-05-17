@@ -1,0 +1,74 @@
+"Barrio","Población (hab)","Superficie (km^2)","Total Equipamientos","Ratio por 10.000 hab","Equipamientos por km^2","Cobertura Espacial (%)","Clasificación LISA","Prioridad de Inversión"
+"la Marina del Prat Vermell",2876,14.2374650640817,0,0,0,9.1,"Prioritario",1
+"Pedralbes",12649,2.68497334736444,0,0,0,61.2,"Prioritario",1
+"la Teixonera",12605,0.337550954709417,0,0,0,34.2,"Prioritario",1
+"Sant Genís dels Agudells",7826,1.68461848602246,0,0,0,53,"Prioritario",1
+"Montbau",5343,2.05400695426671,0,0,0,0,"Prioritario",1
+"la Vall d'Hebron",5990,0.744505463430994,0,0,0,51.3,"Prioritario",1
+"la Guineueta",15656,0.611929803124312,0,0,0,47.9,"Prioritario",1
+"Canyelles",6817,0.790142190019953,0,0,0,7.5,"Prioritario",1
+"la Trinitat Vella",11160,0.807608065523284,0,0,0,36.7,"Prioritario",1
+"Baró de Viver",2678,0.229925856009513,0,0,0,3.5,"Prioritario",1
+"el Fort Pienc",36621,0.929374569800068,4,1.09,4.3,100,"Equilibrado",2
+"la Sagrada Família",53555,1.04183480362526,1,0.19,0.96,100,"Equilibrado",2
+"la Nova Esquerra de l'Eixample",59122,1.34066011277145,3,0.51,2.24,100,"Equilibrado",2
+"la Marina de Port",31647,1.26861979441275,2,0.63,1.58,99.1,"Equilibrado",2
+"la Font de la Guatlla",10860,0.297056860147755,0,0,0,100,"Equilibrado",2
+"Verdun",13511,0.237118379519784,0,0,0,91.1,"Equilibrado",2
+"Hostafrancs",16798,0.409896396870755,2,1.19,4.88,100,"Equilibrado",2
+"Sants - Badal",25338,0.414611009540087,0,0,0,100,"Equilibrado",2
+"Sants",47239,1.09466168792061,6,1.27,5.48,100,"Equilibrado",2
+"les Corts",47057,1.4104515550577,1,0.21,0.71,100,"Equilibrado",2
+"la Maternitat i Sant Ramon",24687,1.91540662192608,3,1.22,1.57,97.6,"Equilibrado",2
+"Sarrià",25282,3.04743615704925,2,0.79,0.66,77.9,"Equilibrado",2
+"les Tres Torres",16376,0.787952893162552,1,0.61,1.27,100,"Equilibrado",2
+"Sant Gervasi - la Bonanova",26836,2.23366691503411,2,0.75,0.9,95.3,"Equilibrado",2
+"el Putxet i el Farró",30756,0.847871512563423,2,0.65,2.36,100,"Equilibrado",2
+"Vallcarca i els Penitents",16919,1.25095877020461,2,1.18,1.6,77.3,"Equilibrado",2
+"el Coll",8091,0.353218821832869,0,0,0,100,"Equilibrado",2
+"el Camp d'en Grassot i Gràcia Nova",36743,0.650529890292224,2,0.54,3.07,100,"Equilibrado",2
+"el Baix Guinardó",26536,0.562457692816481,0,0,0,100,"Equilibrado",2
+"el Guinardó",39061,1.30875547194912,1,0.26,0.76,100,"Equilibrado",2
+"la Font d'en Fargues",9952,0.657212419518754,0,0,0,100,"Equilibrado",2
+"el Carmel",33694,0.939983160315627,0,0,0,100,"Equilibrado",2
+"la Clota",1071,0.178498198446486,0,0,0,100,"Equilibrado",2
+"Horta",31259,3.07001453412749,3,0.96,0.98,40.8,"Equilibrado",2
+"Vilapicina i la Torre Llobeta",26547,0.564293924808321,0,0,0,100,"Equilibrado",2
+"Porta",31363,0.836826283025294,0,0,0,90.4,"Equilibrado",2
+"el Turó de la Peira",17456,0.354220826475648,0,0,0,91.1,"Equilibrado",2
+"Can Peguera",2170,0.118684998735245,0,0,0,100,"Equilibrado",2
+"les Roquetes",17321,0.643005984510656,0,0,0,99.1,"Equilibrado",2
+"la Prosperitat",27922,0.591225580959931,0,0,0,99.6,"Equilibrado",2
+"la Trinitat Nova",7965,0.576713312119649,1,1.26,1.73,100,"Equilibrado",2
+"Torre Baró",3224,1.74181273949407,0,0,0,76.9,"Equilibrado",2
+"Ciutat Meridiana",11351,0.376667876725141,1,0.88,2.65,100,"Equilibrado",2
+"la Sagrera",30965,0.986341628799276,4,1.29,4.06,100,"Equilibrado",2
+"el Congrés i els Indians",15175,0.40921315259651,2,1.32,4.89,100,"Equilibrado",2
+"Navas",22790,0.423820712396223,0,0,0,100,"Equilibrado",2
+"el Camp de l'Arpa del Clot",39804,0.740562635220509,4,1,5.4,100,"Equilibrado",2
+"el Clot",27103,0.696849309822626,3,1.11,4.31,100,"Equilibrado",2
+"Diagonal Mar i el Front Marítim del Poblenou",13691,1.22694241208728,0,0,0,82.8,"Equilibrado",2
+"el Besòs i el Maresme",30724,1.20871577468069,1,0.33,0.83,100,"Equilibrado",2
+"Provençals del Poblenou",21902,1.0857367868053,0,0,0,100,"Equilibrado",2
+"Sant Martí de Provençals",26976,0.734018717282047,3,1.11,4.09,100,"Equilibrado",2
+"la Verneda i la Pau",31173,1.12998127287507,1,0.32,0.88,100,"Equilibrado",2
+"el Raval",49917,1.10025828819682,23,4.61,20.9,100,"Saturado",3
+"el Barri Gòtic",27878,0.815634848530274,7,2.51,8.58,100,"Saturado",3
+"la Barceloneta",14749,1.17944779654633,3,2.03,2.54,85.3,"Saturado",3
+"Sant Pere, Santa Caterina i la Ribera",22767,1.10963751670328,25,10.98,22.53,100,"Saturado",3
+"la Dreta de l'Eixample",45667,2.11988182806339,12,2.63,5.66,100,"Saturado",3
+"l'Antiga Esquerra de l'Eixample",44021,1.2284434354455,6,1.36,4.88,100,"Saturado",3
+"Sant Antoni",39223,0.804113598439392,6,1.53,7.46,100,"Saturado",3
+"el Poble-sec",40300,4.58532621558409,23,5.71,5.02,99,"Saturado",3
+"la Bordeta",21242,0.572200342434886,5,2.35,8.74,100,"Saturado",3
+"el Bon Pastor",15918,1.8681788473824,3,1.88,1.61,94.9,"Saturado",3
+"Vallvidrera, el Tibidabo i les Planes",4962,11.3245108069156,1,2.02,0.09,14.3,"Saturado",3
+"Sant Gervasi - Galvany",49461,1.66917300714938,7,1.42,4.19,100,"Saturado",3
+"la Salut",14017,0.64835720392339,4,2.85,6.17,100,"Saturado",3
+"la Vila de Gràcia",51833,1.32116516296563,27,5.21,20.44,100,"Saturado",3
+"Can Baró",9672,0.384179495539966,5,5.17,13.01,100,"Saturado",3
+"Vallbona",1452,0.613822697574983,1,6.89,1.63,100,"Saturado",3
+"Sant Andreu",58988,1.86739548538856,8,1.36,4.28,88.5,"Saturado",3
+"el Parc i la Llacuna del Poblenou",17603,1.12205805619379,4,2.27,3.56,100,"Saturado",3
+"la Vila Olímpica del Poblenou",9345,0.924813037564318,3,3.21,3.24,99.5,"Saturado",3
+"el Poblenou",34818,1.56704727549137,6,1.72,3.83,100,"Saturado",3

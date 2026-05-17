@@ -1,0 +1,6 @@
+"categoria","tipo","total","Solo_OSM","Solo_CKAN","Ambas","pct_osm","pct_ckan","pct_ambas"
+"Alojamiento","Hostel",100,100,0,0,100,0,0
+"Alojamiento","Hotel",504,64,153,287,12.7,30.4,56.9
+"Atracción","Atracción",42,42,0,0,100,0,0
+"Cultura","Teatro",132,14,67,51,10.6,50.8,38.6
+"Cultura","Otros",63,42,19,2,66.7,30.2,3.2
